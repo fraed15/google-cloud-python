@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataplex-v1.10.0...google-cloud-dataplex-v1.11.0) (2023-12-21)
+
+
+### Features
+
+* [google-cloud-dataplex] added enum value EventType.GOVERNANCE_RULE_PROCESSING ([#12132](https://github.com/googleapis/google-cloud-python/issues/12132)) ([48d42fd](https://github.com/googleapis/google-cloud-python/commit/48d42fdffd8bc55346b7b560c9fdfe685b69930c))
+
 ## [1.10.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataplex-v1.9.0...google-cloud-dataplex-v1.10.0) (2023-12-07)
 
 
